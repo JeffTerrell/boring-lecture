@@ -18,7 +18,9 @@ img.intro {
 	margin-right: auto;
   width: 25%;
   height: 25%;
+  border: 5px solid red;
 }
+
 
 h1.intro {
   text-align: center;
@@ -27,4 +29,11 @@ h1.intro {
 
 body {
   background-image: url(https://bit.ly/3FMTLIT);
+}
+
+p.intro2 {
+  text-align: center;
+  color: red;
+  font-size: large;
+  font-weight: 1000;
 }
