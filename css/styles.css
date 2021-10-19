@@ -4,42 +4,16 @@
   color: red;
 }
 
-p.intro {
-  text-align: center;
-  font-family: times 'Times New Roman', Times, serif;
-  color: red;
-}
-
-h2.intro {
-  text-align: center;
-  font-family: 'Times New Roman', Times, serif;
-  color: red;
-  text-decoration: underline;
-
-}
-
-img.intro {
-  display: block;
-  margin-left: auto;
-	margin-right: auto;
-  width: 25%;
-  height: 25%;
-  border: 5px solid red;
-}
-
-
-h1.intro {
-  text-align: center;
-  font-family: times 'Times New Roman', Times, serif;
-}
-
 body {
   background-image: url(https://bit.ly/3FMTLIT);
 }
 
-p.intro2 {
-  text-align: center;
-  color: red;
-  font-size: large;
-  font-weight: 1000;
+.highlighter {
+  background-color: yellow;
+  border: thick solid black;
+}
+
+.nohighlighter {
+  background-color: transparent;
+  border: transparent;
 }
